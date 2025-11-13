@@ -107,7 +107,8 @@ The final design of **GOWSMART** delivers a visually appealing and highly usable
 It ensures users can browse, select, and purchase with minimal friction — a true **“Smart Grocery”** experience.
 
 ## Output
-<img width="1536" height="1024" alt="imguiux2" src="https://github.com/user-attachments/assets/eadda929-f2b0-4fa4-b6c3-65a63d9cc07d" />
+
+<img width="1024" height="1024" alt="BRAND" src="https://github.com/user-attachments/assets/60502547-adb4-4103-81fe-dfa53544ae37" />
 
 
 ## Result:
