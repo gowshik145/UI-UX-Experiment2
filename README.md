@@ -107,7 +107,7 @@ The final design of **GOWSMART** delivers a visually appealing and highly usable
 It ensures users can browse, select, and purchase with minimal friction — a true **“Smart Grocery”** experience.
 
 ## Output
-<img width="1536" height="1024" alt="ChatGPT Image Nov 6, 2025, 08_44_53 AM" src="https://github.com/user-attachments/assets/c07eafc5-f28d-4aaf-99c2-46782a1ab53a" />
+<img width="1536" height="1024" alt="imguiux2" src="https://github.com/user-attachments/assets/eadda929-f2b0-4fa4-b6c3-65a63d9cc07d" />
 
 
 ## Result:
